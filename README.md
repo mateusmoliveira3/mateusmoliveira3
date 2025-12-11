@@ -3,27 +3,38 @@
 🎯 Trainee Tester | QA em formação | Estudante de ADS | +20 anos de experiência em vendas e liderança
 📍 Miguel Pereira – RJ
 📧 mateusmoliveira3@gmail.com
+📱 Telefone/ Whatsapp: (24) 98174-4497
+🔗 LinkedIn: linkedin.com/in/mateusmoliveira3/
 
-📱 (24) 98174-4497
-🐙 GitHub: mateusmoliveira3
+🚀 Sobre mim (versão orientada a recrutadores – Trainee QA)
 
-🚀 Sobre mim
+Sou um profissional em transição para a área de Tecnologia, com foco em Quality Assurance e formação prática em testes manuais, documentação e análise de requisitos. Atualmente atuo como estagiário de TI na Prefeitura Municipal de Miguel Pereira – RJ.
 
-Profissional em transição para a área de tecnologia, atualmente estagiário de TI na Prefeitura Municipal de Miguel Pereira – RJ.
+Trago uma trajetória profissional sólida em gestão e processos, o que fortalece minhas competências como QA, especialmente em: atenção a detalhes, raciocínio lógico, capacidade analítica, comunicação clara e identificação de inconsistências. Essas habilidades aceleram minha adaptação em ambientes ágeis e orientados à qualidade.
 
-Trago uma sólida bagagem de mais de 20 anos de experiência em vendas, gestão comercial e liderança de equipes, atuando em empresas de grande porte no Brasil e no exterior.
+Venho aprimorando meus conhecimentos em:
 
-Minha trajetória me proporcionou forte visão estratégica, capacidade analítica, comunicação eficiente e habilidade para criar métodos que otimizam processos — competências que hoje aplico na área de Qualidade de Software (QA) e Análise de Sistemas.
+Testes manuais, exploratórios e de regressão
 
-Sou movido por desafios, aprendizado contínuo e pela busca constante por soluções eficientes e inteligentes.
+Escrita e execução de casos de teste
+
+Documentação e registro de bugs
+
+Metodologias ágeis (Scrum/Kanban)
+
+SQL para validação de dados
+
+Git e GitHub para versionamento
+
+Noções de SDLC e boas práticas de QA
 
 🎓 Formação Acadêmica
 
-🎓 Análise e Desenvolvimento de Sistemas – Unifatecie (concluido 2025)
+🎓 Análise e Desenvolvimento de Sistemas – Unifatecie (2025)
+
 🎓 Marketing – Universidade Estácio de Sá (2009)
 
 💼 Experiência Profissional
-
 🖥️ Área de Tecnologia
 
 Estagiário de TI — Prefeitura Municipal de Miguel Pereira (atual)
@@ -34,17 +45,25 @@ Atuação com suporte técnico, análise de demandas, documentação e apoio a s
 Experiência em empresas como:
 
 Claro
+
 Aché Laboratórios
+
 Janssen-Cilag
+
 Splash Piscinas
+
 Agemed Planos de Saúde
+
 Solar energy companies (I3E, Rakia)
+
 Distribuidoras Vivo & Oi
 
 Atuação internacional nos EUA:
 
 Supervisor na Unicpro Janitorial Cleaning (2016–2018) – crescimento de 40%
+
 Supervisor na DJC Company (2015–2016)
+
 Vendas na Isla Trading Company (2014)
 
 Experiência sólida com:
@@ -88,7 +107,9 @@ Criação de métodos e otimização de processos
 🌎 Idiomas
 
 🇺🇸 Inglês — Avançado
+
 🇪🇸 Espanhol — Intermediário
+
 🇮🇹 Italiano — Básico (em andamento)
 
 🎯 Objetivo Profissional
@@ -98,5 +119,5 @@ Busco oportunidades como Trainee Tester / QA para aplicar minhas habilidades ana
 📫 Como me encontrar
 
 📧 E-mail: mateusmoliveira3@gmail.com
-
-📱 WhatsApp: (24) 98174-4497
+📱 Telefone/ Whatsapp: (24) 98174-4497
+🔗 LinkedIn: linkedin.com/in/mateusmoliveira3/
